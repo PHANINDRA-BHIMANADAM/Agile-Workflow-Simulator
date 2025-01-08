@@ -22,7 +22,7 @@ This project simulates an Agile workflow for HR tasks using a high-demand HR dat
 
 ## What’s Used in the Code
 
-**Libraries**:
+**Libraries**
 
 **pandas**: Data manipulation and task simulation.
 
