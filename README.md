@@ -13,6 +13,7 @@ This project simulates an Agile workflow for HR tasks using a high-demand HR dat
 **Visualize Task Distribution**: Generate a bar chart to display the number of tasks at each Agile stage.
 
 **Calculate Metrics**: 
+
 -Total and average story points across tasks.
 
 -Sprint completion rates for performance evaluation.
